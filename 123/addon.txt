@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Half Life 1 Addon (April 2016)"
+	"version"			"8.0"
+	"up_date"			"15. April 2016"
+	"author_name"			"Kajar9"
+	"author_email"			"kajar8@gmail.com"
+	"author_url"			"http://cscheater.era.ee"
+	"info"				"Game Content or Maps Addon for GarrysMod"
+	"override"				"0"
+}
